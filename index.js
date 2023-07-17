@@ -1,3 +1,4 @@
-console.log("hello");
+console.log('hello');
+console.log('perubahan');
 
-console.log("changes from nazhif");
+console.log('changes from nazhif');
